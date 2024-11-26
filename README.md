@@ -1,19 +1,4 @@
-<div align="center">
-<h1>Unified Change Detection Framework </h1>
-<h3>Powered by Huggingface Hub 🤗 </h3> 
-</div>
 
-### Contributors:
-[Weikang Yu](https://ericyu97.github.io/), [Xiaokang Zhang](https://xkzhang.info/), [Richard Gloaguen](https://scholar.google.de/citations?user=e1QDLQUAAAAJ&hl=de), [Xiao Xiang Zhu](https://www.asg.ed.tum.de/sipeo/home/), [Pedram Ghamisi](https://www.ai4rs.com/)
-
-## News
-``11.11.2024`` UCD is open to everyone! Be a contributor by sending a pull request!
-
-``11.11.2024`` Codes for UCD have been released, if you find any problems or bugs, please leave us a message.
-
-``09.11.2024`` Our paper of MineNetCD has been published on IEEE TGRS 2024, the repo for MineNetCD is available [here](https://github.com/AI4RS/MineNetCD).
-
-``09.07.2024`` The UCD project is announced on IEEE IGARSS 2024, we are organizing the codes.
 ## Environment Preparation:
 Create a conda environment for UCD
  ```console
