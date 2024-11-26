@@ -224,32 +224,3 @@ Dataset for these implementations: ``HZDR-FWGEL/MineNetCD256``
 </div>
 * Pretrained Models may only be loaded using accelerator with multiple graphical cards.
 
-## Tutorial Avaiable!
-We just added a very simple example as a tutorial for those who are interested in change detection, check [here](https://github.com/EricYu97/CDTutorial) for more details.
-
-
-## Future Development Schedule:
-
-We will implement more models and datasets. If you are interested in this project and want to make any contributions, please send a pull request and we will add your names under the contributors!
-
-If you have any questions or meeting any difficulties when using this framework, please leave us with an issue or you can contact us with email address: [w.yu@hzdr.de](mailto:w.yu@hzdr.de)
-
-## Acknowledgement:
-
-We would like to thank Huggingface for providing a wonderful open-source platform. We would also like to thank all the authors and contributors who open-sourced the datasets and models that we incorporated into the UCD platform.
-
-## Citation
-
-If you find MineNetCD useful for your study, please kindly cite us:
-```
-@ARTICLE{10744421,
-  author={Yu, Weikang and Zhang, Xiaokang and Gloaguen, Richard and Zhu, Xiao Xiang and Ghamisi, Pedram},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={MineNetCD: A Benchmark for Global Mining Change Detection on Remote Sensing Imagery}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Data mining;Remote sensing;Feature extraction;Benchmark testing;Earth;Transformers;Annotations;Graphical models;Distribution functions;Sustainable development;Mining change detection;remote sensing;benchmark;frequency domain learning;unified framework},
-  doi={10.1109/TGRS.2024.3491715}}
-```
